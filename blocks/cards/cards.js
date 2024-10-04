@@ -22,3 +22,7 @@ export default function decorate(block) {
   block.textContent = '';
   block.append(ul);
 }
+
+// testing purpose
+
+const test = "poc"
